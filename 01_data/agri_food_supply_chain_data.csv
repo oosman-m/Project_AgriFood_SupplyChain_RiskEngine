@@ -1,0 +1,25 @@
+district_cluster,province,crop_year,primary_crop,actual_yield_tons,estimated_demand_tons,drought_risk_index,dist_to_grocery_hub_km,low_income_pop_pct,supply_deficit_tons,food_desert_risk_tier
+Punjab North (Faisalabad),Punjab,2021,Wheat,14500,15000,0.45,12.5,32,500,Moderate Supply Vulnerability
+Punjab North (Faisalabad),Punjab,2022,Wheat,13200,15200,0.68,12.5,32,2000,Moderate Supply Vulnerability
+Punjab North (Faisalabad),Punjab,2023,Wheat,11800,15500,0.82,14,35.5,3700,Moderate Supply Vulnerability
+Punjab North (Faisalabad),Punjab,2024,Wheat,12100,15800,0.75,14,35.5,3700,Moderate Supply Vulnerability
+Punjab North (Faisalabad),Punjab,2025,Wheat,13800,16000,0.52,11,30,2200,Moderate Supply Vulnerability
+Punjab North (Faisalabad),Punjab,2026,Wheat,14200,16200,0.48,11,30,2000,Moderate Supply Vulnerability
+Sindh Central (Sukkur),Sindh,2021,Rice,9800,9000,0.3,22,45,-800,Stable Access Zone
+Sindh Central (Sukkur),Sindh,2022,Rice,8900,9200,0.6,22,45,300,Moderate Supply Vulnerability
+Sindh Central (Sukkur),Sindh,2023,Rice,7200,9500,0.88,28.5,52,2300,Critical Food Desert Risk
+Sindh Central (Sukkur),Sindh,2024,Rice,8100,9700,0.7,28.5,52,1600,Critical Food Desert Risk
+Sindh Central (Sukkur),Sindh,2025,Rice,9100,10000,0.4,20,42,900,Moderate Supply Vulnerability
+Sindh Central (Sukkur),Sindh,2026,Rice,9400,10200,0.38,20,42,800,Moderate Supply Vulnerability
+KPK Valley (Peshawar),KPK,2021,Maize,6200,6000,0.25,18,38,-200,Stable Access Zone
+KPK Valley (Peshawar),KPK,2022,Maize,5800,6200,0.4,18,38,400,Moderate Supply Vulnerability
+KPK Valley (Peshawar),KPK,2023,Maize,5100,6400,0.71,24,44,1300,Moderate Supply Vulnerability
+KPK Valley (Peshawar),KPK,2024,Maize,5400,6500,0.58,24,44,1100,Moderate Supply Vulnerability
+KPK Valley (Peshawar),KPK,2025,Maize,6000,6700,0.35,16.5,36,700,Moderate Supply Vulnerability
+KPK Valley (Peshawar),KPK,2026,Maize,6300,6800,0.32,16.5,36,500,Moderate Supply Vulnerability
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,0,
